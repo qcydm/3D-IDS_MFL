@@ -1,0 +1,4 @@
+Average Precision: 0.6023 ± 0.0450
+Average Recall: 0.5516 ± 0.0434
+Average F1 Score: 0.5301 ± 0.0454
+Average NMI: 0.4448 ± 0.0608
