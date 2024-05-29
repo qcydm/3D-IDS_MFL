@@ -1,9 +1,0 @@
-# requirements.txt  
-torch  
-torch-geometric  
-torch-scatter  
-numpy  
-pandas  
-scikit-learn  
-scipy  
-tqdm  
